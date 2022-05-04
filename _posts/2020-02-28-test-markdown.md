@@ -76,3 +76,18 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+```geojson
+{
+  "type": "Polygon",
+  "coordinates": [
+      [
+          [-90,30],
+          [-90,35],
+          [-90,35],
+          [-85,35],
+          [-85,30]
+      ]
+  ]
+}
+```
